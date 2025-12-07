@@ -1,5 +1,5 @@
 ## Hey there 👋
-I'm Kamil, a Java developer based in Poland, Poznań.<br>
+I'm Kamil, a Java developer based in Poznań, Poland.<br>
 I am currently working on Bachelors project written in Go, Java and Typescript.<br>
 My current main tech stack is Java, [AEM](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html), [Spring](https://spring.io/) and Golang.<br>
 My favorite tools are Docker, AWS and Github actions.
