@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hey there 👋
+I'm Kamil, a Java developer based in Poland, Poznań.
+I am currently working on Bachelors project written in Go, Java and Typescript.
+My current main tech stack is Java, [AEM](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html), [Spring](https://spring.io/) and Golang. My favorite tools are Docker, AWS and Github actions.
 
+Currently I am a student at Collegium da Vinci in Poznań and I am graduating in June 2026.
+
+How to reach me:
+- Linkedin: [Kamil Orwat](https://www.linkedin.com/in/kamil-orwat-430229253/)
+- Email: [orwat.kamil3@gmail.com](mailto:orwat.kamil3@gmail.com)
 <!--
 **kamlocicho/kamlocicho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
